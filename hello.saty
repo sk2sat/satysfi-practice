@@ -1,0 +1,14 @@
+@require: stdja
+
+document (|
+	title = {hello};
+	author= {sksat};
+	show-title = true;
+	show-toc   = true;
+|) '<
+	+section{first section}<
+		+p{
+                        hello, SATySFi!
+		}
+	>
+>
